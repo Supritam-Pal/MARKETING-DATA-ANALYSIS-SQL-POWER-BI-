@@ -1,5 +1,8 @@
 📊 Marketing Data Analysis
 
+<img width="1263" height="772" alt="Screenshot 2026-06-12 141247" src="https://github.com/user-attachments/assets/a6123fe1-3617-427b-94f7-45796ff2ffe1" />
+
+
 SQL · Power BI · Data Visualization · Insights Reporting
 
 A comprehensive data analysis project focusing on marketing performance metrics using SQL for data extraction and Power BI for visualization. The goal of this project is to uncover actionable insights from marketing datasets to help businesses optimize campaign performance, understand customer behavior, and improve ROI.
