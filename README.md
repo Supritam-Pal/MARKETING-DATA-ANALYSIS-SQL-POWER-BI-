@@ -1,6 +1,8 @@
 📊 Marketing Data Analysis
 
 <img width="1263" height="772" alt="Screenshot 2026-06-12 141247" src="https://github.com/user-attachments/assets/a6123fe1-3617-427b-94f7-45796ff2ffe1" />
+<img width="1267" height="750" alt="Screenshot 2026-06-12 141419" src="https://github.com/user-attachments/assets/605055b2-a6b6-40b4-8bb1-d3d94ff710b4" />
+
 
 
 SQL · Power BI · Data Visualization · Insights Reporting
